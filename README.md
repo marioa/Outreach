@@ -1,14 +1,7 @@
 # Outreach
+This repository contains a description of EPCC/ARCHER outreach activities under the [Activities](./Activities) directory. Various practical activities are described that can be used to demonstrate the benefits of parallel/supercomputing to the general public and/or young people.
 
-This repository contains a description of EPCC/ARCHER outreach
-activities under the [Activities](./Activities) directory. Various practical activities are described that can be
-used to demonstrate the benefits of parallel/supercomputing to the
-general public and/or young people.
-
-If you go on to use any of these we would love to hear about it -
-drop us an [email](mailto:m.antonioletti@epcc.ed.ac.uk) with any
-feedback. If you would like to contribute then please fork the
-repository and issue a pull request with your contributions.
+If you go on to use any of these we would love to hear about it - drop us an [email](mailto:m.antonioletti@epcc.ed.ac.uk) with any feedback. If you would like to contribute then please fork the repository and issue a pull request with your contributions.
 
 ## Other EPCC Outreach repositories
 
@@ -19,10 +12,8 @@ repository and issue a pull request with your contributions.
 
 <!-- Licensing and copyright stuff below -->
 <br/>
-![EPCC logo](./imgs/EPCC-logo-small.png?raw=true)
-
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
 <img alt="Creative Commons License" style="border-width:0" align="left"
      src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br/>
-&copy; Copyright EPCC, The University of Edinburgh 2017.
+&copy; Copyright 2017-2024 EPCC, The University of Edinburgh.
